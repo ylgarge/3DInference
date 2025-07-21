@@ -1,0 +1,11 @@
+{
+  "source_mode": "offline",
+  "ply_file_path": "/home/abdus/Masa\u00fcst\u00fc/Calisma/YLG/LPH/3DInference/dataset/screen/dataNew/data20.ply",
+  "algorithm": "RANSAC",
+  "ransac_params": {
+    "distance_threshold": 0.01,
+    "num_iterations": 1000,
+    "eps": 50.8,
+    "min_points": 500
+  }
+}
